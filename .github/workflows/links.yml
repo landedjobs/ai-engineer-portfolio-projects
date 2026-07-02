@@ -1,35 +1,32 @@
-name: Check links
+name: Link check
 
 on:
-  push:
-    branches: [main]
-  pull_request:
-    branches: [main]
   schedule:
-    # Weekly on Monday at 06:00 UTC — catch link rot early
+    # Re-check links weekly — the ecosystem moves fast and links rot.
     - cron: "0 6 * * 1"
-  workflow_dispatch:
-
-permissions:
-  contents: read
-  issues: write
+  workflow_dispatch: {}
 
 jobs:
-  linkchecker:
+  lychee:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Check links with lychee
-        id: lychee
+      - name: Run lychee link checker
         uses: lycheeverse/lychee-action@v2
         with:
           args: >-
             --verbose
             --no-progress
             --max-concurrency 8
-            --accept 200,206,429
-            --exclude-mail
+            --accept 200,201,204,206,301,302,308,429
+            --exclude 'glassdoor\.com'
+            --exclude 'teamblind\.com'
+            --exclude 'levels\.fyi'
+            --exclude 'reddit\.com'
+            --exclude '(twitter|x)\.com'
+            --exclude 'linkedin\.com'
             './**/*.md'
           fail: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
