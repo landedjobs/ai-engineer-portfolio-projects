@@ -7,12 +7,12 @@
 <img src="https://static.b100x.ai/github-repos/images/ai-engineer-portfolio-projects/banner.svg" alt="AI Engineer Portfolio Projects" width="100%">
 
 [![Stars](https://img.shields.io/github/stars/landedjobs/ai-engineer-portfolio-projects?style=social)](https://github.com/landedjobs/ai-engineer-portfolio-projects)
-[![Projects](https://img.shields.io/badge/projects-80+-6C2BD9)](#-contents)
+[![Projects](https://img.shields.io/badge/projects-85-6C2BD9)](#-contents)
 [![License: MIT](https://img.shields.io/badge/License-MIT-6C2BD9.svg)](LICENSE)
 [![Updated](https://img.shields.io/badge/updated-2026--07-00A86B)](#-whats-new-2026-07)
 [![Visit Landed](https://img.shields.io/badge/Visit-Landed-6C2BD9?logo=rocket&logoColor=white)](https://www.landed.jobs/?utm_source=github&utm_medium=referral&utm_campaign=github-ai-engineer-portfolio-projects&utm_content=repo-home)
 
-**80+ buildable AI engineering portfolio projects for 2026**: grouped by theme, each with difficulty, the skills it proves, and annotated reference resources.
+**85 buildable AI engineering portfolio projects for 2026**: grouped by theme, each with difficulty, the skills it proves, and annotated reference resources.
 
 *Maintained by [Landed](https://www.landed.jobs/?utm_source=github&utm_medium=referral&utm_campaign=github-ai-engineer-portfolio-projects&utm_content=repo-home): daily AI-native job matches, agent help with every application, and mock-interview prep.*
 
@@ -20,9 +20,9 @@
 
 ---
 
-This is the **broad, browsable catalog**: 80+ genuinely distinct, buildable AI engineering projects across 10 themes, each tagged with a difficulty, the exact skills it proves, and 1–3 typed, license-noted reference resources. **Pick by your skill gap, not by vibe:** find the theme where your portfolio is thinnest, ship 3–5 projects with real evals and a live URL, and write each README as a product spec. **One production project with proper evals beats five tutorial clones**: hiring managers scan for observability, error handling, eval rigor, and a live link in about 90 seconds.
+This is the **broad, browsable catalog**: 85 distinct, buildable AI engineering projects across 10 themes, each tagged with a difficulty, the exact skills it proves, and 1–3 typed, license-noted reference resources. **Pick by your skill gap, not by vibe:** find the theme where your portfolio is thinnest, ship 3–5 projects with real evals and a live URL, and write each README as a product spec. **One production project with proper evals beats five tutorial clones**: hiring managers scan for observability, error handling, eval rigor, and a live link in about 90 seconds.
 
-> ⭐ **Star this repo**: it's the exhaustive companion to the curated shortlist, refreshed for 2026.
+> ⭐ **Star this repo**: it's the full catalog behind the 12-project shortlist, refreshed for 2026.
 
 > [!NOTE]
 > **Want just the top 12 that actually land jobs?** This catalog is breadth. For the curated, opinionated shortlist of the highest-signal builds, the ones hiring managers scan for, see the sibling repo **[projects-to-land-an-ai-job →](https://github.com/landedjobs/projects-to-land-an-ai-job)**.
