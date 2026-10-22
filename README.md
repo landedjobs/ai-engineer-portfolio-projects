@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<a href="https://www.landed.jobs/?utm_source=github&utm_medium=referral&utm_campaign=github-ai-engineer-portfolio-projects&utm_content=repo-home"><img src="https://static.b100x.ai/email/landed-wordmark.png" alt="Landed" width="200"></a>
+<a href="https://www.landed.jobs/?utm_source=github&utm_medium=referral&utm_campaign=github-ai-engineer-portfolio-projects&utm_content=repo-home"><picture><source media="(prefers-color-scheme: dark)" srcset="https://static.b100x.ai/github-repos/images/brand/landed-wordmark-dark.png"><img src="https://static.b100x.ai/email/landed-wordmark.png" alt="Landed" width="200"></picture></a>
 
 <img src="https://static.b100x.ai/github-repos/images/ai-engineer-portfolio-projects/banner.svg" alt="AI Engineer Portfolio Projects" width="100%">
 
