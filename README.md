@@ -18,6 +18,13 @@
 
 </div>
 
+<!-- landed-apply-cta -->
+<table><tr><td>
+<b>⚡ <a href="https://app.landed.jobs/signup?from=github&amp;cta=github-guide-apply&amp;item=ai-engineer-portfolio-projects&amp;utm_source=github&amp;utm_medium=referral&amp;utm_campaign=github-ai-engineer-portfolio-projects&amp;utm_content=guide-apply">Auto-apply to AI engineer jobs that match you →</a></b><br>
+Upload your resume once. <a href="https://www.landed.jobs">landed</a> finds the roles that fit you and applies within hours of them going live, so you actually hear back.
+</td></tr></table>
+
+
 ---
 
 This is the **broad, browsable catalog**: 85 distinct, buildable AI engineering projects across 10 themes, each tagged with a difficulty, the exact skills it proves, and 1–3 typed, license-noted reference resources. **Pick by your skill gap, not by vibe:** find the theme where your portfolio is thinnest, ship 3–5 projects with real evals and a live URL, and write each README as a product spec. **One production project with proper evals beats five tutorial clones**: hiring managers scan for observability, error handling, eval rigor, and a live link in about 90 seconds.
