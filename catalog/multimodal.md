@@ -1,5 +1,8 @@
 # 🎨 Multimodal
 
+> [!NOTE]
+> **Want a full build plan?** The [voice agent](../guides/04-voice-agent.md) and [multimodal evidence](../guides/10-multimodal.md) build guides cover scope, architecture, milestones and the eval table to publish.
+
 > Voice and vision projects demo *incredibly* well live and show full-stack range (streaming, latency, media handling). One polished multimodal app is a memorable interview artifact.
 
 **Skills legend:** `STT / TTS` · `vision LLMs (VLMs)` · `real-time streaming` · `latency budgets` · `image-text retrieval` · `structured vision output`

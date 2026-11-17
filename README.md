@@ -62,7 +62,7 @@ flowchart LR
 
 **Total: 85 projects.** Free courses for 9 of the 10 themes: [learn the skills on landed.jobs](#-learn-the-skills-on-landedjobs). Also below: [what wins in 2026](#-what-wins-a-90-second-scan) · [best build-with-me hubs](#-best-build-with-me-hubs-to-learn-from) · [what's new](#-whats-new-2026-07) · [FAQ](#-faq).
 
-**🆕 Build guides:** step-by-step guides for a [production RAG assistant](guides/01-production-rag.md) and a [tool-using agent](guides/02-tool-using-agent.md), with the eval table to publish, plus [templates](templates/) for your [README](templates/project-readme.md), [eval report](templates/eval-report.md) and [interview](templates/presenting-your-project.md).
+**🆕 Build guides:** 10 step-by-step guides ([all guides](guides/)), from a [production RAG assistant](guides/01-production-rag.md) and a [tool-using agent](guides/02-tool-using-agent.md) to an [MCP server](guides/03-mcp-server.md), [voice agent](guides/04-voice-agent.md), [eval harness](guides/06-eval-harness.md) and [LLM serving](guides/08-llm-serving.md), each with the eval table to publish, plus [templates](templates/) for your [README](templates/project-readme.md), [eval report](templates/eval-report.md) and [interview](templates/presenting-your-project.md).
 
 **Difficulty legend:** 🟢 Beginner · 🟡 Intermediate · 🔴 Advanced
 **Link types:** 📄 paper · 📘 docs · 🎬 video · 🧑‍🏫 course · 🛠️ tool · 💻 repo

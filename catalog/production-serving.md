@@ -1,5 +1,8 @@
 # ⚙️ Production & Serving
 
+> [!NOTE]
+> **Want a full build plan?** The [LLM serving build guide](../guides/08-llm-serving.md) and the [eval report template](../templates/eval-report.md) cover scope, architecture, milestones and the eval table to publish.
+
 > This theme is where "I built a demo" becomes "I can run this in production." Quantization, throughput, p50/p95 latency, and $/1k-tokens are the vocabulary of infra maturity — put the numbers in your README.
 
 **Skills legend:** `serving (vLLM / llama.cpp)` · `quantization` · `throughput & latency` · `streaming (SSE)` · `containers / K8s` · `cost per token`

@@ -1,5 +1,8 @@
 # 🧩 Structured Extraction
 
+> [!NOTE]
+> **Want a full build plan?** The [structured extraction build guide](../guides/09-structured-extraction.md) and the [eval report template](../templates/eval-report.md) cover scope, architecture, milestones and the eval table to publish.
+
 > Turning messy text into **validated, typed data** is the most quietly employable skill on this list — every enterprise AI feature depends on it. Pydantic/Zod schemas + retries + confidence scores read as pragmatic, anti-hallucination engineering.
 
 **Skills legend:** `Pydantic / Zod schemas` · `function-calling` · `validation + retry` · `confidence scoring` · `constrained decoding` · `entity resolution`

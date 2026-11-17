@@ -110,7 +110,7 @@ For latency definitions (end-to-end vs time to first token, and what queueing do
 - 💻 [vibrantlabsai/ragas](https://github.com/vibrantlabsai/ragas) · 16.4k ⭐ · Apache-2.0 · ready-made RAG metrics (faithfulness, context recall) to compare against your own.
 - 💻 [langchain-ai/rag-from-scratch](https://github.com/langchain-ai/rag-from-scratch) · 10.1k ⭐ · ⚠️ no licence stated · notebooks that build each RAG step by hand; read and re-implement, don't copy.
 - 📘 [LangSmith: evaluate a RAG application](https://docs.langchain.com/langsmith/evaluate-rag-tutorial) · the four separate RAG checks.
-- 📘 [Tucows AI engineer interview exercise](https://github.com/tucows/interview-exercise-ai) · a real take-home with its scoring rubric; the closest public picture of what reviewers grade.
+- 📘 [Tucows AI engineer interview exercise](https://github.com/tucows/interview-exercise-ai) · archived, still readable · a real take-home with its scoring rubric; the closest public picture of what reviewers grade.
 
 ## 10. Put it on your resume
 

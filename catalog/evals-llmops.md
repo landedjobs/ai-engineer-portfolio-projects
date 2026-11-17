@@ -1,5 +1,8 @@
 # 📊 Evals & LLMOps
 
+> [!NOTE]
+> **Want a full build plan?** The [eval harness build guide](../guides/06-eval-harness.md) and the [eval report template](../templates/eval-report.md) cover scope, architecture, milestones and the eval table to publish.
+
 > **"Eval is the new system design."** This is the single most under-built theme relative to how much interviewers care. A rigorous eval harness attached to any other project is often the thing that gets you the callback. Numbers beat vibes.
 
 **Skills legend:** `golden sets` · `LLM-as-judge` · `faithfulness / precision / relevance` · `A/B + statistical significance` · `tracing (tokens/latency/cost)` · `CI regression gates` · `drift monitoring`

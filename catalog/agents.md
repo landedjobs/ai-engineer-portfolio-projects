@@ -1,7 +1,7 @@
 # 🤖 Agents & Tool-Use
 
 > [!NOTE]
-> **Want a full build plan?** The [tool-using agent build guide](../guides/02-tool-using-agent.md) covers scope, architecture, milestones and the eval table to publish.
+> **Want a full build plan?** The [tool-using agent](../guides/02-tool-using-agent.md), [MCP server](../guides/03-mcp-server.md) and [browser agent](../guides/05-browser-agent.md) build guides cover scope, architecture, milestones and the eval table to publish.
 
 > Agents are the theme with the widest quality gap: most portfolios ship a toy loop with no error handling. **Retry, backoff, cost caps, guardrails, and tracing** are what separate a demo from a shipped agent. Add those and one agent project outshines ten.
 

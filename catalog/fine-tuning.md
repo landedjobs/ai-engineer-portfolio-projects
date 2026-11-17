@@ -1,5 +1,8 @@
 # 🎛️ Fine-Tuning & Training
 
+> [!NOTE]
+> **Want a full build plan?** The [fine-tuning and distillation build guide](../guides/07-fine-tuning.md) and its free-GPU path cover scope, architecture, milestones and the eval table to publish.
+
 > Fine-tuning differentiates you from the prompt-only crowd — but only if you **evaluate the tuned model against the base** and report the delta. A LoRA run with no comparison is noise; a LoRA run with a win/loss table is a portfolio piece.
 
 **Skills legend:** `dataset curation` · `PEFT (LoRA / QLoRA)` · `preference tuning (DPO)` · `eval vs base` · `quantization / VRAM management` · `distillation`
