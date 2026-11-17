@@ -1,5 +1,8 @@
 # 🤖 Agents & Tool-Use
 
+> [!NOTE]
+> **Want a full build plan?** The [tool-using agent build guide](../guides/02-tool-using-agent.md) covers scope, architecture, milestones and the eval table to publish.
+
 > Agents are the theme with the widest quality gap: most portfolios ship a toy loop with no error handling. **Retry, backoff, cost caps, guardrails, and tracing** are what separate a demo from a shipped agent. Add those and one agent project outshines ten.
 
 **Skills legend:** `tool-use / function-calling` · `orchestration (ReAct / plan-execute / supervisor)` · `state & memory` · `retries + backoff + cost tracking` · `guardrails` · `MCP`

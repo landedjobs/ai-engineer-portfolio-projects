@@ -1,5 +1,8 @@
 # 🔎 RAG Apps
 
+> [!NOTE]
+> **Want a full build plan?** The [production RAG build guide](../guides/01-production-rag.md) covers scope, architecture, milestones and the eval table to publish.
+
 > Retrieval-Augmented Generation is the **single highest-signal theme** on this list. "One production RAG project with proper evals beats five tutorial projects." Ship at least one from this file with a live URL, an eval table, and citations in the output.
 
 **Skills legend:** `chunking` · `hybrid search (BM25 + dense)` · `re-ranking` · `retrieval evals (recall@k, MRR, nDCG, faithfulness)` · `vector DBs (pgvector/Chroma/Weaviate/Qdrant)` · `citations & grounding`
