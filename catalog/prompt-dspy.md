@@ -27,7 +27,7 @@ Systematically vary retrieved context, ordering, and compression; measure qualit
 ### 4. Prompt-versioning + registry with rollback — 🟢 Beginner
 A small system to version prompts, A/B them, and roll back — like Git for prompts, wired to an eval. Production hygiene most portfolios skip.
 - **Skills proven:** prompt versioning, A/B routing, rollback, eval hookup.
-- 💻 [langfuse/langfuse](https://github.com/langfuse/langfuse) — 30.1k ⭐ · MIT · prompt management + versioning.
+- 💻 [langfuse/langfuse](https://github.com/langfuse/langfuse) — 37.5k ⭐ · MIT (core; enterprise folder licensed separately) · prompt management + versioning.
 
 ### 5. Prompt-injection defense playground — 🟡 Intermediate
 A test-bed of injection attacks against a prompted app, plus layered defenses (delimiting, allow-lists, output checks) with a measured attack-success rate.

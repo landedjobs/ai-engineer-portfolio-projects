@@ -17,14 +17,14 @@
 ### 1. LoRA fine-tune a small Llama vs base — 🟡 Intermediate
 Fine-tune Llama 3.2 1B/3B on a focused task, then run a head-to-head eval against the base model. The canonical "I can actually tune models" project.
 - **Skills proven:** LoRA, dataset formatting, base-vs-tuned eval.
-- 💻 [unslothai/unsloth](https://github.com/unslothai/unsloth) — 67.7k ⭐ · Apache-2.0 core (AGPL Studio UI) · 2× faster tuning.
+- 💻 [unslothai/unsloth](https://github.com/unslothai/unsloth) — 79.7k ⭐ · Apache-2.0 core (AGPL Studio UI) · 2× faster tuning.
 - 📘 [HF PEFT — LoRA](https://huggingface.co/docs/peft) — official docs.
 
 ### 2. QLoRA on a consumer / free-tier GPU — 🟡 Intermediate
 4-bit quantized fine-tuning that fits a 7B model on a single 16GB GPU (or a free Colab). Document the memory footprint and throughput.
 - **Skills proven:** 4-bit quantization, memory budgeting, QLoRA.
 - 📄 [QLoRA — Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314) — the paper.
-- 💻 [unslothai/unsloth](https://github.com/unslothai/unsloth) — 67.7k ⭐ · Apache-2.0 · QLoRA notebooks.
+- 💻 [unslothai/unsloth](https://github.com/unslothai/unsloth) — 79.7k ⭐ · Apache-2.0 · QLoRA notebooks.
 
 ### 3. DPO preference tuning — 🔴 Advanced
 Build a preferred/rejected pairs dataset and align a model with Direct Preference Optimization; measure win-rate vs the SFT baseline.
@@ -47,7 +47,7 @@ Tune an embedding model on in-domain pairs and show retrieval recall@k improving
 Distill CoT traces from a strong reasoning model into a small student, then measure the reasoning-benchmark lift. On-trend for 2026's reasoning wave.
 - **Skills proven:** distillation, CoT data generation, reasoning eval.
 - 📄 [DeepSeek-R1 — reasoning via RL + distillation](https://arxiv.org/abs/2501.12948) — the paper.
-- 💻 [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) — 36.2k ⭐ · MIT · distillation walkthroughs.
+- 💻 [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) — 42k ⭐ · MIT · distillation walkthroughs.
 
 ### 7. Synthetic dataset generation + quality filtering — 🟡 Intermediate
 Generate a training set with an LLM, then dedupe and quality-filter it (perplexity / rubric / dedup). Data quality is where most tuning wins actually come from.
@@ -58,7 +58,7 @@ Generate a training set with an LLM, then dedupe and quality-filter it (perplexi
 Use a reward you can *check* (math, code tests, JSON validity) to run GRPO-style RL on a small model. Bleeding-edge and very differentiating.
 - **Skills proven:** RL fine-tuning, reward design, verifiable rewards.
 - 📘 [HF TRL — GRPO](https://huggingface.co/docs/trl/grpo_trainer) — implementation docs.
-- 💻 [unslothai/unsloth](https://github.com/unslothai/unsloth) — 67.7k ⭐ · Apache-2.0 · GRPO examples.
+- 💻 [unslothai/unsloth](https://github.com/unslothai/unsloth) — 79.7k ⭐ · Apache-2.0 · GRPO examples.
 
 ---
 

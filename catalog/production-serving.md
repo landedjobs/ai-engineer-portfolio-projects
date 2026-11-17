@@ -14,12 +14,12 @@
 ### 1. Self-hosted OpenAI-compatible API with vLLM — 🟡 Intermediate
 Serve an open model behind an OpenAI-compatible endpoint and benchmark throughput vs a hosted API. Shows you can run inference, not just call it.
 - **Skills proven:** paged-attention serving, batching, throughput benchmarking.
-- 💻 [vllm-project/vllm](https://github.com/vllm-project/vllm) — 84.9k ⭐ · Apache-2.0 · high-throughput serving.
+- 💻 [vllm-project/vllm](https://github.com/vllm-project/vllm) — 97.1k ⭐ · Apache-2.0 · high-throughput serving.
 
 ### 2. Local / edge deployment with llama.cpp (GGUF) — 🟡 Intermediate
 Run a quantized GGUF model on a laptop/Mac/Raspberry Pi and report tokens/sec at each quant level. Great "runs anywhere" story.
 - **Skills proven:** GGUF quantization, CPU/Metal inference, quality-vs-size tradeoffs.
-- 💻 [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) — 119k ⭐ · MIT · edge/local inference.
+- 💻 [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) — 135k ⭐ · MIT · edge/local inference.
 
 ### 3. Quantized inference on Apple Silicon (MLX) — 🟡 Intermediate
 Run and benchmark quantized models with MLX on an M-series Mac. A clean, self-contained perf study on hardware you already own.
@@ -49,7 +49,7 @@ A proxy in front of LLM calls that does semantic caching, rate limiting, fallbac
 ### 8. Batch inference pipeline for large jobs — 🟢 Beginner
 Process a large dataset through an LLM efficiently: batching, checkpointing, resumability, and a cost estimate up front. Unglamorous but very real.
 - **Skills proven:** batching, checkpoint/resume, throughput, cost estimation.
-- 💻 [vllm-project/vllm](https://github.com/vllm-project/vllm) — 84.9k ⭐ · Apache-2.0 · offline batched inference.
+- 💻 [vllm-project/vllm](https://github.com/vllm-project/vllm) — 97.1k ⭐ · Apache-2.0 · offline batched inference.
 
 ---
 

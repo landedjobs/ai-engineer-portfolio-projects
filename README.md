@@ -7,12 +7,12 @@
 <img src="https://static.b100x.ai/github-repos/images/ai-engineer-portfolio-projects/banner.svg" alt="AI Engineer Portfolio Projects" width="100%">
 
 [![Stars](https://img.shields.io/github/stars/landedjobs/ai-engineer-portfolio-projects?style=social)](https://github.com/landedjobs/ai-engineer-portfolio-projects)
-[![Projects](https://img.shields.io/badge/projects-85-6C2BD9)](#-contents)
+[![Projects](https://img.shields.io/badge/projects-86-6C2BD9)](#-contents)
 [![License: MIT](https://img.shields.io/badge/License-MIT-6C2BD9.svg)](LICENSE)
-[![Updated](https://img.shields.io/badge/updated-2026--07-00A86B)](#-whats-new-2026-07)
+[![Updated](https://img.shields.io/badge/updated-2026--11-00A86B)](#-whats-new)
 [![Visit Landed](https://img.shields.io/badge/Visit-Landed-6C2BD9?logo=rocket&logoColor=white)](https://www.landed.jobs/?utm_source=github&utm_medium=referral&utm_campaign=github-ai-engineer-portfolio-projects&utm_content=repo-home)
 
-**85 buildable AI engineering portfolio projects for 2026**: grouped by theme, each with difficulty, the skills it proves, and annotated reference resources.
+**86 buildable AI engineering portfolio projects for 2026**: grouped by theme, each with difficulty, the skills it proves, and annotated reference resources.
 
 *Maintained by [Landed](https://www.landed.jobs/?utm_source=github&utm_medium=referral&utm_campaign=github-ai-engineer-portfolio-projects&utm_content=repo-home): daily AI-native job matches, agent help with every application, and mock-interview prep.*
 
@@ -27,7 +27,7 @@ Upload your resume once. <a href="https://www.landed.jobs">landed</a> finds the 
 
 ---
 
-This is the **broad, browsable catalog**: 85 distinct, buildable AI engineering projects across 10 themes, each tagged with a difficulty, the exact skills it proves, and 1–3 typed, license-noted reference resources. **Pick by your skill gap, not by vibe:** find the theme where your portfolio is thinnest, ship 3–5 projects with real evals and a live URL, and write each README as a product spec. **One production project with proper evals beats five tutorial clones**: hiring managers scan for observability, error handling, eval rigor, and a live link in about 90 seconds.
+This is the **broad, browsable catalog**: 86 distinct, buildable AI engineering projects across 10 themes, each tagged with a difficulty, the exact skills it proves, and 1–3 typed, license-noted reference resources. **Pick by your skill gap, not by vibe:** find the theme where your portfolio is thinnest, ship 3–5 projects with real evals and a live URL, and write each README as a product spec. **One production project with proper evals beats five tutorial clones**: hiring managers scan for observability, error handling, eval rigor, and a live link in about 90 seconds.
 
 > ⭐ **Star this repo**: it's the full catalog behind the 12-project shortlist, refreshed for 2026.
 
@@ -50,7 +50,7 @@ flowchart LR
 | Theme | Projects | What it proves | Catalog |
 |-------|:--------:|----------------|---------|
 | 🔎 **RAG apps** | 12 | Retrieval, chunking, re-ranking, grounded citations | [catalog/rag-apps.md](catalog/rag-apps.md) |
-| 🤖 **Agents & tool-use** | 12 | Orchestration, tools, memory, guardrails | [catalog/agents.md](catalog/agents.md) |
+| 🤖 **Agents & tool-use** | 13 | Orchestration, tools, memory, guardrails | [catalog/agents.md](catalog/agents.md) |
 | 📊 **Evals & LLMOps** | 10 | Golden sets, LLM-as-judge, CI gates, tracing | [catalog/evals-llmops.md](catalog/evals-llmops.md) |
 | 🎛️ **Fine-tuning & training** | 8 | LoRA/QLoRA, DPO, distillation, eval-vs-base | [catalog/fine-tuning.md](catalog/fine-tuning.md) |
 | 🎨 **Multimodal** | 8 | STT/TTS, VLMs, real-time streaming | [catalog/multimodal.md](catalog/multimodal.md) |
@@ -60,7 +60,7 @@ flowchart LR
 | 🧠 **Prompt & DSPy** | 6 | Metric-driven prompt optimization, context eng. | [catalog/prompt-dspy.md](catalog/prompt-dspy.md) |
 | 🚀 **GTM & AI-PM prototypes** | 7 | GTM automation, prototyping, AI-PM builds | [catalog/gtm-ai-pm.md](catalog/gtm-ai-pm.md) |
 
-**Total: 85 projects.** Free courses for 9 of the 10 themes: [learn the skills on landed.jobs](#-learn-the-skills-on-landedjobs). Also below: [what wins in 2026](#-what-wins-a-90-second-scan) · [best build-with-me hubs](#-best-build-with-me-hubs-to-learn-from) · [what's new](#-whats-new-2026-07) · [FAQ](#-faq).
+**Total: 86 projects.** Free courses for 9 of the 10 themes: [learn the skills on landed.jobs](#-learn-the-skills-on-landedjobs). Also below: [what wins in 2026](#-what-wins-a-90-second-scan) · [best build-with-me hubs](#-best-build-with-me-hubs-to-learn-from) · [what's new](#-whats-new) · [FAQ](#-faq).
 
 **🆕 Build guides:** 10 step-by-step guides ([all guides](guides/)), from a [production RAG assistant](guides/01-production-rag.md) and a [tool-using agent](guides/02-tool-using-agent.md) to an [MCP server](guides/03-mcp-server.md), [voice agent](guides/04-voice-agent.md), [eval harness](guides/06-eval-harness.md) and [LLM serving](guides/08-llm-serving.md), each with the eval table to publish, plus [templates](templates/) for your [README](templates/project-readme.md), [eval report](templates/eval-report.md) and [interview](templates/presenting-your-project.md).
 
@@ -111,7 +111,7 @@ The highest-signal theme. Ship at least one **hybrid-retrieval RAG with an eval 
 
 *…and 4 more (query-rewriting, text-to-SQL, long-context benchmark, NotebookLM clone).*
 
-### 🤖 Agents & tool-use → [full list (12)](catalog/agents.md)
+### 🤖 Agents & tool-use → [full list (13)](catalog/agents.md)
 Add **retry, backoff, cost caps, and tracing** and one agent outshines ten toy loops.
 
 | Project | What you build | Skills | Difficulty |
@@ -271,12 +271,18 @@ Nine of the ten themes have free courses on [landed.jobs](https://www.landed.job
 
 ---
 
-## 🆕 What's new (2026-07)
+## 🆕 What's new
 
-- **Launched**: 85 projects across 10 themes, each with difficulty, proven-skills, and annotated references. Sibling to the curated [projects-to-land-an-ai-job](https://github.com/landedjobs/projects-to-land-an-ai-job).
-- **New in 2026:** MCP-powered coding agents, computer-use/browser agents, GRPO/RL fine-tuning on verifiable rewards, reasoning-model distillation (R1-style), and ColPali-style visual document RAG.
-- **"Eval is the new system design"**: expanded the Evals & LLMOps theme (CI gates, drift monitors, red-team suites) because it's the most under-built vs. how much interviewers ask.
-- **Context engineering** added to the Prompt & DSPy theme, the 2026 replacement for string-fiddling.
+**November 2026**
+- **10 build guides** ([all guides](guides/)): step-by-step plans for a [production RAG assistant](guides/01-production-rag.md), [tool-using agent](guides/02-tool-using-agent.md), [MCP server](guides/03-mcp-server.md), [voice agent](guides/04-voice-agent.md), [browser agent](guides/05-browser-agent.md), [eval harness](guides/06-eval-harness.md), [fine-tuning](guides/07-fine-tuning.md), [LLM serving](guides/08-llm-serving.md), [structured extraction](guides/09-structured-extraction.md) and [multimodal](guides/10-multimodal.md). Each has scope, architecture, milestones, the eval table to publish and example resume lines.
+- **Templates** for your [project README](templates/project-readme.md), [eval report](templates/eval-report.md) and [how to present the project](templates/presenting-your-project.md), with what hiring teams say they look for.
+- **New project:** [remote MCP server with OAuth and tenant isolation](catalog/agents.md) (now 86 projects).
+- **Refreshed:** star counts and licences checked against GitHub; archived repos marked; licence corrections for Arize Phoenix (Elastic License 2.0) and WhisperX (BSD-2-Clause).
+
+**July 2026**
+- Launched with 85 projects across 10 themes, each with difficulty, proven skills and annotated references. Sibling to the curated [projects-to-land-an-ai-job](https://github.com/landedjobs/projects-to-land-an-ai-job).
+- Added MCP-powered coding agents, computer-use and browser agents, GRPO/RL fine-tuning on verifiable rewards, reasoning-model distillation and ColPali-style visual document RAG.
+- Expanded Evals & LLMOps (CI gates, drift monitors, red-team suites) and added context engineering to Prompt & DSPy.
 
 ---
 

@@ -15,7 +15,7 @@
 Parse resumes into a strict schema (skills, roles, dates) with per-field confidence and a retry loop on validation failure. The perfect first structured-extraction project.
 - **Skills proven:** Pydantic schemas, validation, confidence, retry.
 - 💻 [567-labs/instructor](https://github.com/567-labs/instructor) — MIT · Pydantic-validated LLM outputs.
-- 💻 [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) — 14.1k ⭐ · Apache-2.0 · constrained/structured generation.
+- 💻 [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) — 16k ⭐ · Apache-2.0 · constrained/structured generation.
 
 ### 2. Invoice extractor with retry + human-in-the-loop — 🟡 Intermediate
 Extract line items, totals, and tax with validation; route low-confidence fields to a review queue. Mirrors a real enterprise workflow.
@@ -30,7 +30,7 @@ Pull people/orgs/places and resolve them to canonical IDs (e.g. Wikidata), handl
 ### 4. JSON-schema-locked agent output — 🟡 Intermediate
 Force an agent's every response into a validated schema (tool calls, plans, final answers) so downstream code never parses free text. Reliability upgrade for any agent project.
 - **Skills proven:** constrained decoding, schema-first design, function-calling.
-- 💻 [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) — 14.1k ⭐ · Apache-2.0.
+- 💻 [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) — 16k ⭐ · Apache-2.0.
 - 💻 [567-labs/instructor](https://github.com/567-labs/instructor) — MIT.
 
 ### 5. Text → knowledge-graph triples → Neo4j — 🔴 Advanced
@@ -47,7 +47,7 @@ Multi-label classify text against a taxonomy and calibrate the confidence so thr
 ### 7. Web-page → structured records scraper — 🟡 Intermediate
 Given a URL, extract clean typed records (products, jobs, papers) that validate against a schema, with graceful handling of missing fields. Practically useful and portfolio-ready.
 - **Skills proven:** extraction-from-HTML, schema design, missing-data handling.
-- 💻 [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) — 116k ⭐ · Apache-2.0 · scraping/extraction apps.
+- 💻 [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) — 145k ⭐ · Apache-2.0 · scraping/extraction apps.
 
 ---
 
